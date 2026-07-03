@@ -1,6 +1,0 @@
-setup.py
-ML1.egg-info/PKG-INFO
-ML1.egg-info/SOURCES.txt
-ML1.egg-info/dependency_links.txt
-ML1.egg-info/requires.txt
-ML1.egg-info/top_level.txt

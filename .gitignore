@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+
 .Python
 build/
 develop-eggs/
@@ -216,3 +217,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+# ML project generated files
+artifacts/
+logs/
+catboost_info/
+ML1.egg-info/
